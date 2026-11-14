@@ -10,7 +10,6 @@ import {
   View,
 } from "react-native";
 
-// 1. Cambia los nombres de archivo por tus imágenes guardadas en assets/images/
 const WEB_PROJECTS = [
   {
     id: "1",
