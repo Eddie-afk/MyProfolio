@@ -33,7 +33,7 @@ export default function ContactScreen() {
       <Text style={styles.title}>Let's Connect</Text>
       <Text style={styles.subtitle}>
         Have a project in mind or an academic/job opportunity? Feel free to
-        reach out through any of the following channels:
+        reach out through any of the following channel:
       </Text>
 
       {/* DIRECT CONTACT LINKS */}
